@@ -1,0 +1,1250 @@
+[
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 1 of 2)[cr SR].adf",
+    "name": "main",
+    "offset": 5632,
+    "packed_size": 28680,
+    "size": 28680,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 1 of 2)[cr SR].adf",
+    "name": "Psygnosis",
+    "offset": 34312,
+    "packed_size": 19400,
+    "size": 19400,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 1 of 2)[cr SR].adf",
+    "name": "dmalogo",
+    "offset": 53712,
+    "packed_size": 22334,
+    "size": 22334,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 1 of 2)[cr SR].adf",
+    "name": "rampic",
+    "offset": 76046,
+    "packed_size": 8372,
+    "size": 8372,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 1 of 2)[cr SR].adf",
+    "name": "noises",
+    "offset": 84418,
+    "packed_size": 105478,
+    "size": 105478,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 1 of 2)[cr SR].adf",
+    "name": "introdata",
+    "offset": 189896,
+    "packed_size": 119804,
+    "size": 214064,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 1 of 2)[cr SR].adf",
+    "name": "introanim",
+    "offset": 309700,
+    "packed_size": 272852,
+    "size": 272852,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 1 of 2)[cr SR].adf",
+    "name": "Code",
+    "offset": 582552,
+    "packed_size": 137036,
+    "size": 137036,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 1 of 2)[cr SR].adf",
+    "name": "endpic",
+    "offset": 719588,
+    "packed_size": 29590,
+    "size": 29590,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 1 of 2)[cr SR].adf",
+    "name": "endsample",
+    "offset": 749178,
+    "packed_size": 75242,
+    "size": 75242,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Ground1",
+    "offset": 5632,
+    "packed_size": 14368,
+    "size": 30008,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Objects1",
+    "offset": 20000,
+    "packed_size": 10408,
+    "size": 48300,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Ground2",
+    "offset": 30408,
+    "packed_size": 19180,
+    "size": 42200,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Objects2",
+    "offset": 49588,
+    "packed_size": 13916,
+    "size": 53580,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Ground3",
+    "offset": 63504,
+    "packed_size": 13088,
+    "size": 30400,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Objects3",
+    "offset": 76592,
+    "packed_size": 9296,
+    "size": 47740,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Ground4",
+    "offset": 85888,
+    "packed_size": 12376,
+    "size": 27008,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Objects4",
+    "offset": 98264,
+    "packed_size": 10572,
+    "size": 47420,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Ground5",
+    "offset": 108836,
+    "packed_size": 17904,
+    "size": 40840,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Objects5",
+    "offset": 126740,
+    "packed_size": 10984,
+    "size": 48530,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "leveldata",
+    "offset": 137724,
+    "packed_size": 4756,
+    "size": 9128,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Icons",
+    "offset": 142480,
+    "packed_size": 79242,
+    "size": 79242,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "oddtable",
+    "offset": 221722,
+    "packed_size": 4480,
+    "size": 4480,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "panel1",
+    "offset": 226202,
+    "packed_size": 3348,
+    "size": 12800,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "panel2",
+    "offset": 229550,
+    "packed_size": 3192,
+    "size": 12800,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "awesome",
+    "offset": 232742,
+    "packed_size": 2660,
+    "size": 5991,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "beastI",
+    "offset": 235402,
+    "packed_size": 2864,
+    "size": 4311,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "beastII",
+    "offset": 238266,
+    "packed_size": 4760,
+    "size": 8931,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "cancan",
+    "offset": 243026,
+    "packed_size": 2364,
+    "size": 5607,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "doggie",
+    "offset": 245390,
+    "packed_size": 1936,
+    "size": 4707,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "menace",
+    "offset": 247326,
+    "packed_size": 6316,
+    "size": 11691,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "mountain",
+    "offset": 253642,
+    "packed_size": 1688,
+    "size": 5691,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tenlemmings",
+    "offset": 255330,
+    "packed_size": 1648,
+    "size": 4119,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tim1",
+    "offset": 256978,
+    "packed_size": 1416,
+    "size": 10784,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tim2",
+    "offset": 258394,
+    "packed_size": 1336,
+    "size": 5415,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tim3",
+    "offset": 259730,
+    "packed_size": 3156,
+    "size": 6567,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tim4",
+    "offset": 262886,
+    "packed_size": 4884,
+    "size": 9255,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tim5",
+    "offset": 267770,
+    "packed_size": 5132,
+    "size": 8487,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tim6",
+    "offset": 272902,
+    "packed_size": 3408,
+    "size": 6951,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tim7",
+    "offset": 276310,
+    "packed_size": 3508,
+    "size": 6183,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tim8",
+    "offset": 279818,
+    "packed_size": 3664,
+    "size": 6183,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tim9",
+    "offset": 283482,
+    "packed_size": 2472,
+    "size": 4335,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tim10",
+    "offset": 285954,
+    "packed_size": 4364,
+    "size": 7719,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "lemming1",
+    "offset": 290318,
+    "packed_size": 3488,
+    "size": 6195,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "lemming2",
+    "offset": 293806,
+    "packed_size": 6660,
+    "size": 11559,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "lemming3",
+    "offset": 300466,
+    "packed_size": 3872,
+    "size": 7611,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level000",
+    "offset": 304338,
+    "packed_size": 1332,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level001",
+    "offset": 305670,
+    "packed_size": 2528,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level002",
+    "offset": 308198,
+    "packed_size": 1184,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level003",
+    "offset": 309382,
+    "packed_size": 3476,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level004",
+    "offset": 312858,
+    "packed_size": 2696,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level005",
+    "offset": 315554,
+    "packed_size": 2128,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level006",
+    "offset": 317682,
+    "packed_size": 3788,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level007",
+    "offset": 321470,
+    "packed_size": 3400,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level008",
+    "offset": 324870,
+    "packed_size": 1996,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level009",
+    "offset": 326866,
+    "packed_size": 1900,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level010",
+    "offset": 328766,
+    "packed_size": 3912,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level011",
+    "offset": 332678,
+    "packed_size": 3548,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level012",
+    "offset": 336226,
+    "packed_size": 4116,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level013",
+    "offset": 340342,
+    "packed_size": 3268,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level014",
+    "offset": 343610,
+    "packed_size": 2540,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level015",
+    "offset": 346150,
+    "packed_size": 2832,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level016",
+    "offset": 348982,
+    "packed_size": 2988,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level017",
+    "offset": 351970,
+    "packed_size": 4248,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level018",
+    "offset": 356218,
+    "packed_size": 2848,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level019",
+    "offset": 359066,
+    "packed_size": 2104,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level020",
+    "offset": 361170,
+    "packed_size": 3048,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level021",
+    "offset": 364218,
+    "packed_size": 1420,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level022",
+    "offset": 365638,
+    "packed_size": 2344,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level023",
+    "offset": 367982,
+    "packed_size": 5368,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "Level024",
+    "offset": 373350,
+    "packed_size": 2016,
+    "size": 8192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "special0",
+    "offset": 375366,
+    "packed_size": 30052,
+    "size": 37640,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "special1",
+    "offset": 405418,
+    "packed_size": 18980,
+    "size": 26058,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "special2",
+    "offset": 424398,
+    "packed_size": 22988,
+    "size": 29204,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "special3",
+    "offset": 447386,
+    "packed_size": 34696,
+    "size": 41588,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "acoustic",
+    "offset": 482082,
+    "packed_size": 4892,
+    "size": 4892,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "blocks",
+    "offset": 486974,
+    "packed_size": 1928,
+    "size": 2728,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "brass1",
+    "offset": 488902,
+    "packed_size": 8780,
+    "size": 8780,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "chello",
+    "offset": 497682,
+    "packed_size": 3936,
+    "size": 3936,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "clap",
+    "offset": 501618,
+    "packed_size": 1504,
+    "size": 1504,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "dogbark1",
+    "offset": 503122,
+    "packed_size": 2652,
+    "size": 2652,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "drum",
+    "offset": 505774,
+    "packed_size": 2692,
+    "size": 3464,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "elecbass",
+    "offset": 508466,
+    "packed_size": 3178,
+    "size": 3178,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "elecguitar",
+    "offset": 511644,
+    "packed_size": 4072,
+    "size": 4072,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "grunt",
+    "offset": 515716,
+    "packed_size": 4036,
+    "size": 4376,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "jazzorgan",
+    "offset": 519752,
+    "packed_size": 1948,
+    "size": 2192,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "piano",
+    "offset": 521700,
+    "packed_size": 5364,
+    "size": 5364,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "piano1",
+    "offset": 527064,
+    "packed_size": 3650,
+    "size": 3650,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "sax",
+    "offset": 530714,
+    "packed_size": 6936,
+    "size": 6936,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "slurdrum",
+    "offset": 537650,
+    "packed_size": 4700,
+    "size": 5394,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "snare",
+    "offset": 542350,
+    "packed_size": 3790,
+    "size": 3790,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "springy",
+    "offset": 546140,
+    "packed_size": 7826,
+    "size": 7826,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "strings2",
+    "offset": 553966,
+    "packed_size": 4794,
+    "size": 4794,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "synthharp",
+    "offset": 558760,
+    "packed_size": 4796,
+    "size": 5912,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "synthlead",
+    "offset": 563556,
+    "packed_size": 4952,
+    "size": 4952,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "taccbass",
+    "offset": 568508,
+    "packed_size": 3468,
+    "size": 5494,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tbassdrum1",
+    "offset": 571976,
+    "packed_size": 4086,
+    "size": 4086,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tbassdrum2",
+    "offset": 576062,
+    "packed_size": 3646,
+    "size": 3646,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tbell",
+    "offset": 579708,
+    "packed_size": 6140,
+    "size": 8738,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tbigchord",
+    "offset": 585848,
+    "packed_size": 9852,
+    "size": 10690,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tbuzz",
+    "offset": 595700,
+    "packed_size": 8472,
+    "size": 12164,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tcrinkle",
+    "offset": 604172,
+    "packed_size": 6224,
+    "size": 7634,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tfbass",
+    "offset": 610396,
+    "packed_size": 5384,
+    "size": 7094,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tharp",
+    "offset": 615780,
+    "packed_size": 4740,
+    "size": 7660,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "thump",
+    "offset": 620520,
+    "packed_size": 2532,
+    "size": 2532,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tkmix",
+    "offset": 623052,
+    "packed_size": 7160,
+    "size": 8964,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "todd",
+    "offset": 630212,
+    "packed_size": 6836,
+    "size": 7416,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tpianohi",
+    "offset": 637048,
+    "packed_size": 4396,
+    "size": 5494,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tpianolo",
+    "offset": 641444,
+    "packed_size": 5036,
+    "size": 6348,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tpizz",
+    "offset": 646480,
+    "packed_size": 1860,
+    "size": 2728,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tshaker",
+    "offset": 648340,
+    "packed_size": 1610,
+    "size": 1610,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tsnare1",
+    "offset": 649950,
+    "packed_size": 5506,
+    "size": 5506,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tsnare2",
+    "offset": 655456,
+    "packed_size": 4788,
+    "size": 5838,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tspacebass",
+    "offset": 660244,
+    "packed_size": 4144,
+    "size": 5966,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tsprinkle",
+    "offset": 664388,
+    "packed_size": 10964,
+    "size": 13698,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tsqrbell",
+    "offset": 675352,
+    "packed_size": 2780,
+    "size": 4560,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "tstring",
+    "offset": 678132,
+    "packed_size": 5954,
+    "size": 5954,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "ttink",
+    "offset": 684086,
+    "packed_size": 5148,
+    "size": 7244,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "ttrumpet",
+    "offset": 689234,
+    "packed_size": 5092,
+    "size": 7482,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "zap",
+    "offset": 694326,
+    "packed_size": 3852,
+    "size": 3852,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "BasicFX",
+    "offset": 698178,
+    "packed_size": 37184,
+    "size": 37184,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "FullFX",
+    "offset": 735362,
+    "packed_size": 39484,
+    "size": 39484,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "abass",
+    "offset": 774846,
+    "packed_size": 2492,
+    "size": 2492,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "abdr",
+    "offset": 777338,
+    "packed_size": 2698,
+    "size": 2698,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "achord",
+    "offset": 780036,
+    "packed_size": 3564,
+    "size": 3564,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "ag1",
+    "offset": 783600,
+    "packed_size": 950,
+    "size": 950,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "ag2",
+    "offset": 784550,
+    "packed_size": 888,
+    "size": 888,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "ag3",
+    "offset": 785438,
+    "packed_size": 1012,
+    "size": 1012,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "alead",
+    "offset": 786450,
+    "packed_size": 7046,
+    "size": 7046,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "along",
+    "offset": 793496,
+    "packed_size": 8952,
+    "size": 8952,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "asnare",
+    "offset": 802448,
+    "packed_size": 2872,
+    "size": 2872,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "b1bass",
+    "offset": 805320,
+    "packed_size": 3768,
+    "size": 3768,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "b1bsdr",
+    "offset": 809088,
+    "packed_size": 2660,
+    "size": 2660,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "b1maj",
+    "offset": 811748,
+    "packed_size": 3724,
+    "size": 3724,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "b1min",
+    "offset": 815472,
+    "packed_size": 3986,
+    "size": 3986,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "b1mrm",
+    "offset": 819458,
+    "packed_size": 2666,
+    "size": 2666,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "b1pan",
+    "offset": 822124,
+    "packed_size": 4636,
+    "size": 4636,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "b1snare",
+    "offset": 826760,
+    "packed_size": 2628,
+    "size": 2628,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "b1sonar",
+    "offset": 829388,
+    "packed_size": 4868,
+    "size": 6868,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "b1tom2",
+    "offset": 834256,
+    "packed_size": 2350,
+    "size": 2350,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "b2bal",
+    "offset": 836606,
+    "packed_size": 2388,
+    "size": 3398,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "b2bal2",
+    "offset": 838994,
+    "packed_size": 4584,
+    "size": 5962,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "b2bass",
+    "offset": 843578,
+    "packed_size": 3924,
+    "size": 3924,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "b2hand1",
+    "offset": 847502,
+    "packed_size": 3060,
+    "size": 3060,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "b2leaad",
+    "offset": 850562,
+    "packed_size": 4288,
+    "size": 5710,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "b2string",
+    "offset": 854850,
+    "packed_size": 2884,
+    "size": 3436,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "b2tom1",
+    "offset": 857734,
+    "packed_size": 3482,
+    "size": 3482,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "mbdr",
+    "offset": 861216,
+    "packed_size": 2642,
+    "size": 2642,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "mcym",
+    "offset": 863858,
+    "packed_size": 2020,
+    "size": 2020,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "mdanger",
+    "offset": 865878,
+    "packed_size": 5574,
+    "size": 5574,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "mgtr1",
+    "offset": 871452,
+    "packed_size": 3218,
+    "size": 3218,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "mgtr2",
+    "offset": 874670,
+    "packed_size": 3628,
+    "size": 4718,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "msnr",
+    "offset": 878298,
+    "packed_size": 3878,
+    "size": 3878,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "mspeedup",
+    "offset": 882176,
+    "packed_size": 2952,
+    "size": 3280,
+    "compressed": true
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "mtp1",
+    "offset": 885128,
+    "packed_size": 4426,
+    "size": 4426,
+    "compressed": false
+  },
+  {
+    "disk": "Lemmings (1991)(Psygnosis)(Disk 2 of 2)[cr SR].adf",
+    "name": "mtp2",
+    "offset": 889554,
+    "packed_size": 2902,
+    "size": 2902,
+    "compressed": false
+  }
+]

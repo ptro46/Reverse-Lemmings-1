@@ -1,0 +1,149 @@
+[
+  {
+    "loop_detected": true,
+    "name": "cancan",
+    "seconds": 109.7340589569161,
+    "ticks": 9336,
+    "track": 0
+  },
+  {
+    "loop_detected": true,
+    "name": "lemming1",
+    "seconds": 52.17356009070295,
+    "ticks": 5790,
+    "track": 1
+  },
+  {
+    "loop_detected": true,
+    "name": "tim2",
+    "seconds": 55.1891156462585,
+    "ticks": 3102,
+    "track": 2
+  },
+  {
+    "loop_detected": true,
+    "name": "lemming2",
+    "seconds": 105.24,
+    "ticks": 6546,
+    "track": 3
+  },
+  {
+    "loop_detected": true,
+    "name": "tim8",
+    "seconds": 63.03823129251701,
+    "ticks": 3102,
+    "track": 4
+  },
+  {
+    "loop_detected": true,
+    "name": "tim3",
+    "seconds": 78.73646258503402,
+    "ticks": 5430,
+    "track": 5
+  },
+  {
+    "loop_detected": true,
+    "name": "tim5",
+    "seconds": 86.58562358276644,
+    "ticks": 4662,
+    "track": 6
+  },
+  {
+    "loop_detected": true,
+    "name": "doggie",
+    "seconds": 98.63056689342405,
+    "ticks": 9714,
+    "track": 7
+  },
+  {
+    "loop_detected": true,
+    "name": "tim6",
+    "seconds": 70.88734693877551,
+    "ticks": 5022,
+    "track": 8
+  },
+  {
+    "loop_detected": true,
+    "name": "lemming3",
+    "seconds": 70.94045351473923,
+    "ticks": 4638,
+    "track": 9
+  },
+  {
+    "loop_detected": true,
+    "name": "tim7",
+    "seconds": 63.03823129251701,
+    "ticks": 5430,
+    "track": 10
+  },
+  {
+    "loop_detected": true,
+    "name": "tim9",
+    "seconds": 55.1891156462585,
+    "ticks": 4254,
+    "track": 11
+  },
+  {
+    "loop_detected": true,
+    "name": "tim1",
+    "seconds": 110.13297052154196,
+    "ticks": 6174,
+    "track": 12
+  },
+  {
+    "loop_detected": true,
+    "name": "tim10",
+    "seconds": 78.73650793650793,
+    "ticks": 4614,
+    "track": 13
+  },
+  {
+    "loop_detected": true,
+    "name": "tim4",
+    "seconds": 94.43473922902494,
+    "ticks": 4662,
+    "track": 14
+  },
+  {
+    "loop_detected": true,
+    "name": "tenlemmings",
+    "seconds": 123.36662131519276,
+    "ticks": 7356,
+    "track": 15
+  },
+  {
+    "loop_detected": true,
+    "name": "mountain",
+    "seconds": 114.57560090702948,
+    "ticks": 13554,
+    "track": 16
+  },
+  {
+    "loop_detected": true,
+    "name": "awesome",
+    "seconds": 69.68648526077098,
+    "ticks": 5406,
+    "track": 17
+  },
+  {
+    "loop_detected": true,
+    "name": "menace",
+    "seconds": 94.46884353741497,
+    "ticks": 11934,
+    "track": 18
+  },
+  {
+    "loop_detected": true,
+    "name": "beastII",
+    "seconds": 88.60004535147392,
+    "ticks": 8862,
+    "track": 19
+  },
+  {
+    "loop_detected": true,
+    "name": "beastI",
+    "seconds": 79.3251700680272,
+    "ticks": 7758,
+    "track": 20
+  }
+]

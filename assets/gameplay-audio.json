@@ -1,0 +1,123 @@
+[
+  {
+    "bank": "BasicFX",
+    "call_address": "0xa1e",
+    "command": "0x0e16",
+    "event": "lets_go",
+    "form_index": 2,
+    "note": 14,
+    "period": 480,
+    "rate_hz": 7389,
+    "sample_id": 22
+  },
+  {
+    "bank": "BasicFX",
+    "call_address": "0x6fd0",
+    "command": "0x0c1b",
+    "event": "rescue",
+    "form_index": 7,
+    "note": 12,
+    "period": 538,
+    "rate_hz": 6593,
+    "sample_id": 27
+  },
+  {
+    "bank": "BasicFX",
+    "call_address": "0x5c20",
+    "command": "0x1319",
+    "event": "splat",
+    "form_index": 5,
+    "note": 19,
+    "period": 360,
+    "rate_hz": 9852,
+    "sample_id": 25
+  },
+  {
+    "bank": "BasicFX",
+    "call_address": "0x6364",
+    "command": "0x101d",
+    "event": "explosion",
+    "form_index": 9,
+    "note": 16,
+    "period": 428,
+    "rate_hz": 8287,
+    "sample_id": 29
+  },
+  {
+    "bank": "BasicFX",
+    "call_address": "0x12d6",
+    "command": "0x1317",
+    "event": "assign",
+    "form_index": 3,
+    "note": 19,
+    "period": 360,
+    "rate_hz": 9852,
+    "sample_id": 23
+  },
+  {
+    "bank": "BasicFX",
+    "call_address": "0x13d2",
+    "command": "0x0c1a",
+    "event": "reject",
+    "form_index": 6,
+    "note": 12,
+    "period": 538,
+    "rate_hz": 6593,
+    "sample_id": 26
+  },
+  {
+    "bank": "BasicFX",
+    "call_address": "0x6834",
+    "command": "0x061c",
+    "event": "builder_warning",
+    "form_index": 8,
+    "note": 6,
+    "period": 762,
+    "rate_hz": 4655,
+    "sample_id": 28
+  },
+  {
+    "bank": "BasicFX",
+    "call_address": "0x627c",
+    "command": "0x0e18",
+    "event": "oh_no",
+    "form_index": 4,
+    "note": 14,
+    "period": 480,
+    "rate_hz": 7389,
+    "sample_id": 24
+  },
+  {
+    "bank": "BasicFX",
+    "call_address": "0x6394",
+    "command": "0x1a1e",
+    "event": "fall_out",
+    "form_index": 10,
+    "note": 26,
+    "period": 240,
+    "rate_hz": 14779,
+    "sample_id": 30
+  },
+  {
+    "bank": "FullFX",
+    "call_address": "0x6f42",
+    "command": "0x100a",
+    "event": "drown",
+    "form_index": 9,
+    "note": 16,
+    "period": 428,
+    "rate_hz": 8287,
+    "sample_id": 10
+  },
+  {
+    "bank": "FullFX",
+    "call_address": "0x6f86",
+    "command": "0x1108",
+    "event": "burn",
+    "form_index": 7,
+    "note": 17,
+    "period": 404,
+    "rate_hz": 8779,
+    "sample_id": 8
+  }
+]

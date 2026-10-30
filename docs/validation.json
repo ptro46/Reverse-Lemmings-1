@@ -1,0 +1,15 @@
+{
+  "animation_frames_verified": 337,
+  "animation_sequences_verified": 17,
+  "gameplay_sounds_verified": 11,
+  "levels": 120,
+  "music_loops_detected": 21,
+  "music_tracks": 21,
+  "placed_objects": 1484,
+  "raw_files": 156,
+  "sounds_wav": 122,
+  "terrain_pixels": 6414443,
+  "tutorial_required": 1,
+  "tutorial_saved": 10,
+  "tutorial_ticks": 653
+}

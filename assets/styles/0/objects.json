@@ -1,0 +1,134 @@
+[
+  {
+    "id": 0,
+    "w": 48,
+    "h": 17,
+    "effect": 1,
+    "frames": 1,
+    "trigger_x": 24,
+    "trigger_y": 16,
+    "trigger_w": 4,
+    "trigger_h": 8
+  },
+  {
+    "id": 1,
+    "w": 48,
+    "h": 25,
+    "effect": 0,
+    "frames": 10,
+    "trigger_x": 0,
+    "trigger_y": 0,
+    "trigger_w": 4,
+    "trigger_h": 4
+  },
+  {
+    "id": 2,
+    "w": 16,
+    "h": 16,
+    "effect": 0,
+    "frames": 14,
+    "trigger_x": 0,
+    "trigger_y": 0,
+    "trigger_w": 4,
+    "trigger_h": 4
+  },
+  {
+    "id": 3,
+    "w": 32,
+    "h": 32,
+    "effect": 7,
+    "frames": 7,
+    "trigger_x": 0,
+    "trigger_y": 0,
+    "trigger_w": 32,
+    "trigger_h": 32
+  },
+  {
+    "id": 4,
+    "w": 32,
+    "h": 32,
+    "effect": 8,
+    "frames": 7,
+    "trigger_x": 0,
+    "trigger_y": 0,
+    "trigger_w": 32,
+    "trigger_h": 32
+  },
+  {
+    "id": 5,
+    "w": 64,
+    "h": 16,
+    "effect": 5,
+    "frames": 8,
+    "trigger_x": 0,
+    "trigger_y": 8,
+    "trigger_w": 64,
+    "trigger_h": 8
+  },
+  {
+    "id": 6,
+    "w": 16,
+    "h": 21,
+    "effect": 4,
+    "frames": 15,
+    "trigger_x": 8,
+    "trigger_y": 20,
+    "trigger_w": 4,
+    "trigger_h": 8
+  },
+  {
+    "id": 7,
+    "w": 48,
+    "h": 8,
+    "effect": 0,
+    "frames": 6,
+    "trigger_x": 4,
+    "trigger_y": 16,
+    "trigger_w": 8,
+    "trigger_h": 4
+  },
+  {
+    "id": 8,
+    "w": 16,
+    "h": 38,
+    "effect": 4,
+    "frames": 17,
+    "trigger_x": 4,
+    "trigger_y": 40,
+    "trigger_w": 4,
+    "trigger_h": 4
+  },
+  {
+    "id": 9,
+    "w": 16,
+    "h": 16,
+    "effect": 0,
+    "frames": 14,
+    "trigger_x": 0,
+    "trigger_y": 0,
+    "trigger_w": 4,
+    "trigger_h": 4
+  },
+  {
+    "id": 10,
+    "w": 32,
+    "h": 42,
+    "effect": 4,
+    "frames": 12,
+    "trigger_x": 12,
+    "trigger_y": 40,
+    "trigger_w": 4,
+    "trigger_h": 4
+  },
+  {
+    "id": 11,
+    "w": 16,
+    "h": 10,
+    "effect": 11,
+    "frames": 6,
+    "trigger_x": 8,
+    "trigger_y": 0,
+    "trigger_w": 4,
+    "trigger_h": 4
+  }
+]

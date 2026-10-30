@@ -1,0 +1,155 @@
+[
+  {
+    "name": "walk",
+    "address": 53062,
+    "w": 16,
+    "h": 10,
+    "planes": 2,
+    "frames": 9,
+    "left_offset": 540
+  },
+  {
+    "name": "fall",
+    "address": 54142,
+    "w": 16,
+    "h": 10,
+    "planes": 2,
+    "frames": 4,
+    "left_offset": 240
+  },
+  {
+    "name": "dig",
+    "address": 54622,
+    "w": 16,
+    "h": 14,
+    "planes": 3,
+    "frames": 16,
+    "left_offset": 0
+  },
+  {
+    "name": "climb",
+    "address": 56414,
+    "w": 16,
+    "h": 12,
+    "planes": 2,
+    "frames": 8,
+    "left_offset": 576
+  },
+  {
+    "name": "hoist",
+    "address": 57566,
+    "w": 16,
+    "h": 12,
+    "planes": 2,
+    "frames": 8,
+    "left_offset": 576
+  },
+  {
+    "name": "build",
+    "address": 59230,
+    "w": 16,
+    "h": 13,
+    "planes": 3,
+    "frames": 16,
+    "left_offset": 1664
+  },
+  {
+    "name": "splat",
+    "address": 62558,
+    "w": 16,
+    "h": 10,
+    "planes": 2,
+    "frames": 16,
+    "left_offset": 0
+  },
+  {
+    "name": "block",
+    "address": 63518,
+    "w": 16,
+    "h": 10,
+    "planes": 2,
+    "frames": 16,
+    "left_offset": 0
+  },
+  {
+    "name": "bash",
+    "address": 64478,
+    "w": 16,
+    "h": 10,
+    "planes": 3,
+    "frames": 32,
+    "left_offset": 2560
+  },
+  {
+    "name": "float",
+    "address": 69598,
+    "w": 16,
+    "h": 16,
+    "planes": 3,
+    "frames": 8,
+    "left_offset": 1024
+  },
+  {
+    "name": "mine",
+    "address": 71646,
+    "w": 16,
+    "h": 13,
+    "planes": 3,
+    "frames": 24,
+    "left_offset": 2496
+  },
+  {
+    "name": "drown",
+    "address": 76638,
+    "w": 16,
+    "h": 10,
+    "planes": 2,
+    "frames": 16,
+    "left_offset": 0
+  },
+  {
+    "name": "burn",
+    "address": 78222,
+    "w": 16,
+    "h": 14,
+    "planes": 4,
+    "frames": 14,
+    "left_offset": 0
+  },
+  {
+    "name": "exit",
+    "address": 77598,
+    "w": 16,
+    "h": 13,
+    "planes": 2,
+    "frames": 8,
+    "left_offset": 0
+  },
+  {
+    "name": "shrug",
+    "address": 80182,
+    "w": 16,
+    "h": 10,
+    "planes": 2,
+    "frames": 8,
+    "left_offset": 480
+  },
+  {
+    "name": "oh_no",
+    "address": 81142,
+    "w": 16,
+    "h": 10,
+    "planes": 2,
+    "frames": 16,
+    "left_offset": 0
+  },
+  {
+    "name": "explosion",
+    "address": 58718,
+    "w": 32,
+    "h": 32,
+    "planes": 3,
+    "frames": 1,
+    "left_offset": 0
+  }
+]
